@@ -1,0 +1,27 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.adobe.tell.sdk5try2",
+    "sha256_cert_fingerprints":
+    ["D7:61:FA:D4:67:94:16:1D:11:59:8D:5D:8D:31:64:05:AD:A9:80:A9:B3:D2:81:29:CD:35:3A:C4:64:1A:39:A0"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.webanalyticsfordevelopers.test.w4dmobile",
+    "sha256_cert_fingerprints":
+    ["FD:8C:C6:01:93:3A:7E:2B:95:5E:86:93:4A:56:B9:B6:71:0C:2A:20:F1:C1:92:61:66:98:A1:7A:41:28:59:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.markoapp",
+    "sha256_cert_fingerprints":
+    ["BE:CB:ED:52:7F:01:E4:C7:B2:1C:34:91:0E:F7:78:C9:3A:E2:D4:08:81:65:9C:01:1B:35:68:C4:DA:D8:42:96"]
+  }
+}]
